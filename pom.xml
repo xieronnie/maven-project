@@ -145,6 +145,7 @@
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-kahadb-store</artifactId>
 			<version>${activemq.version}</version>
+			<scope>compile</scope>
 		</dependency>
 
 		<!-- for testing -->
