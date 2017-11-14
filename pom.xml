@@ -7,7 +7,7 @@
 	<artifactId>maven-project-rsx123</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
-	<name>Mule maven-project Application</name>
+	<name>Maven-Project-RSX123</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
